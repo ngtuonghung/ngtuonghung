@@ -5,7 +5,7 @@ I'm an undergraduate student at University of Engineering and Technology - VNU, 
 ## What I'm Currently Into
 
 - **Binary Exploitation** - My main focus in CTFs.
-- **Vulnerability Research** - I want to discover a 0day 1 day :)
+- **Vulnerability Research** - I hope to discover a 0day 1 day :)
 
 I'm self-taught and still learning every day. No major achievements yet, but I'm driven by the excitement of understanding software security at a deeper level.
 
@@ -16,7 +16,7 @@ I write about my journey and share what I learn:
 - CVEs in details and how to reproduce them.
 - Pentesting walkthroughs.
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" /> <a href="https://github.com/ngtuonghung">@ngtuonghung</a>
 
