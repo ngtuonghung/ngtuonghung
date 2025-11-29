@@ -4,24 +4,23 @@ I'm an undergraduate student at University of Engineering and Technology - VNU, 
 
 ## I'm interested in
 
-- **Binary Exploitation** - My main focus in CTFs.
-- **Vulnerability Research** - I hope to discover a 0day 1 day :)
+- **Binary Exploitation (pwn)** - My main focus in CTFs.
+- **Vulnerability Research** - My goal is to discover a 0day 1 day :)
 
-I'm self-taught and still learning every day, no major achievements yet. I really love to understand software security at a deeper level.
+I'm self-taught and still learning every day. I love to understand software security at a deeper level.
 
 ## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/)
 
 I write about my journey and share what I learn:
-- CTFs writeups (pwnable challenges only).
-- CVEs in details and how to reproduce them.
+- **CTFs** writeups (pwnable challenges only).
+- **CVEs** in details and how to reproduce them.
 - Pentesting walkthroughs.
 
 ## Connect with me
 
-<img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" /> <a href="https://github.com/ngtuonghung">@ngtuonghung</a>
-<img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" /> <a href="https://x.com/ngtuonghung">@ngtuonghung</a>
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" height="32" /> <a href="https://www.youtube.com/@ngtuonghung/videos">@ngtuonghung</a>
-<img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" /> <a href="mailto:hungtuong05@gmail.com">hungtuong05@gmail.com</a>
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ngtuonghung)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ngtuonghung)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ngtuonghung/videos)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hungtuong05@gmail.com)
 
 *"Still hacking, still learning."*
