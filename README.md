@@ -1,16 +1,15 @@
 # Hi there, I'm Hung 👋
 
-I'm an undergraduate student at University of Engineering and Technology - VNU.
+I'm an undergraduate student at UET - VNU.
 
 ## I'm interested in
 
-- **Binary Exploitation (pwn)** - My main focus in CTFs.
-- **Vulnerability Research** - My goal is to discover a 0day 1 day :)
+- **pwn** - My main focus in CTFs.
+- My goal is to become a **Security Researcher** :)
 
-## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/)
+## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/) has
 
-I write about my journey and share what I learn:
-- **CTFs** writeups (pwnable challenges only).
+- **CTFs** writeups (pwn challenges only).
 - **CVEs** in details and how to reproduce them.
 - Pentesting walkthroughs.
 
