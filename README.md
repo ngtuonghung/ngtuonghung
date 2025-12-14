@@ -1,10 +1,10 @@
-# Hi there, I'm Hung 👋
+# Hi there, I'm Hung
 
 I'm an undergraduate student at UET-VNU.
 
 ## I'm interested in
 
-- **pwn**
+- **pwn**.
 - I aim to become a **Sec Researcher** :)
 
 ## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/) has
