@@ -5,7 +5,7 @@ I'm an undergraduate student at UET-VNU.
 ## I'm interested in
 
 - **pwn**.
-- I aim to become a **Sec Researcher** :)
+- I aim to become a **vulnerability researcher** :)
 
 ## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/) has
 
