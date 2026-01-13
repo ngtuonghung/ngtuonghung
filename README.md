@@ -7,8 +7,4 @@ I'm an undergraduate student at UET-VNU.
 - **pwn**.
 - I aim to become a **vulnerability researcher** :)
 
-## My blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/) has
-
-- **CTFs** pwn writeups.
-- **CVEs** reproduction details.
-- Pentesting walkthroughs.
+## Check out my blog - [ngtuonghung.github.io](https://ngtuonghung.github.io/)
